@@ -1,5 +1,18 @@
+# Environment
 .env
+
+# Python
 __pycache__/
-.adk/
 *.pyc
+*.pyo
+*.pyd
+.Python
+
+# ADK
+.adk/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
