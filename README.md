@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♀️ Author
 **Pari Shah**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | 
+[LinkedIn](https://www.linkedin.com/in/PariShahh) | 
 [GitHub](https://github.com/PariShahh)
